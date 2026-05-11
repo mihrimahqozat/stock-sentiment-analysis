@@ -77,9 +77,6 @@ Financial markets are driven not only by fundamentals but by sentiment — the c
 ### S&P 500 Price & Returns
 ![S&P 500](charts/sentiment_vs_price.png)
 
-### ROC Curve Comparison
-![ROC Curve](charts/roc_curve.png)
-
 ### Feature Importance
 ![Feature Importance](charts/feature_importance.png)
 
